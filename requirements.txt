@@ -1,0 +1,6 @@
+elasticsearch
+sentence_transformers
+transformers
+pillow
+torchvision
+librosa
